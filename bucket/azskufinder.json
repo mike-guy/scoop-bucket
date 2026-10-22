@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mike-guy/azskufinder/releases/download/v0.1.0/azskufinder_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/mike-guy/azskufinder/releases/download/v0.2.0/azskufinder_0.2.0_windows_amd64.zip",
             "bin": [
                 "azskufinder.exe"
             ],
-            "hash": "4a6a34fa5146fdf59a2fe064a0fa7f3815689371f8398494bf50c687011d0b23"
+            "hash": "c732cc7fb085f436a6b0db57633d32a7f8e0b8e0a20e7147916dec09d8e98d00"
         },
         "arm64": {
-            "url": "https://github.com/mike-guy/azskufinder/releases/download/v0.1.0/azskufinder_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/mike-guy/azskufinder/releases/download/v0.2.0/azskufinder_0.2.0_windows_arm64.zip",
             "bin": [
                 "azskufinder.exe"
             ],
-            "hash": "a2853796db59756425272e330013be1327d511ac82ab7a107f00027a930a39fb"
+            "hash": "4f951e8eb23d4797522f0fd5f453164e431daffd3409f0569f4aa262c5010679"
         }
     },
     "homepage": "https://github.com/mike-guy/azskufinder",
