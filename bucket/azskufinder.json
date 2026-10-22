@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mike-guy/azskufinder/releases/download/v0.1.0/azskufinder_0.1.0_windows_amd64.zip",
+            "bin": [
+                "azskufinder.exe"
+            ],
+            "hash": "4a6a34fa5146fdf59a2fe064a0fa7f3815689371f8398494bf50c687011d0b23"
+        },
+        "arm64": {
+            "url": "https://github.com/mike-guy/azskufinder/releases/download/v0.1.0/azskufinder_0.1.0_windows_arm64.zip",
+            "bin": [
+                "azskufinder.exe"
+            ],
+            "hash": "a2853796db59756425272e330013be1327d511ac82ab7a107f00027a930a39fb"
+        }
+    },
+    "homepage": "https://github.com/mike-guy/azskufinder",
+    "license": "MIT",
+    "description": "Find the Azure VM sizes you can actually deploy"
+}
